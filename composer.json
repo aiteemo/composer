@@ -1,0 +1,12 @@
+{
+    "name": "teemobaby/composer",
+    "require": {
+        "monolog/monolog": "^2.0"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/teemobaby/composer.git"
+        }
+    ]
+}
